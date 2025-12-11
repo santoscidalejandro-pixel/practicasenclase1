@@ -1,0 +1,43 @@
+.container {
+    max-width: 500px; 
+    margin: 0 auto;
+
+}
+.head{
+    font-size: 3em;
+    font-family:Georgia, Cambria, Cochin, Times, 'Times New Roman', serif 
+}
+.subhead{
+    color: grey; 
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p { 
+    line-height: 1.4em; 
+    padding-bottom: 20px;
+    /* max-width: 80%;
+    margin: 0 auto; */
+}
+
+figure{ 
+    width: 100%; 
+    margin: 0 auto;
+}
+
+.top-photo { 
+    width: 100%
+}
+
+figcaption{
+    color: gray;
+    font-size: .75em;
+}
+
+.byline, span {
+    text-transform: uppercase; color: gray;
+}
+
+span { 
+    color: darkred; 
+    font-weight: bold;
+}
